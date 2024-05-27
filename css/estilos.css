@@ -16,3 +16,32 @@
     color: black;
 }
 
+.btn-main{
+    color: black;
+    background-color: #f9f9f9;
+    border:none;    
+}
+
+.btn-group .btn-check:checked + .btn {
+    background-color: #f1f1f1;
+}
+
+.btn-group .btn-check:focus + .btn {
+    border: none;
+    border-color: #f9f9f9;
+}
+
+.btn-card{
+    color: white;
+    background-color: #e35614;
+    border:none;    
+}
+
+.btn-card:hover{
+    color: #d9d9d9;
+    background-color: #c14911;
+    border:none;    
+}
+
+
+
